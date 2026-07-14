@@ -1,5 +1,5 @@
 PySide6>=6.0
-QFluentWidgets>=0.8
+PyQt-Fluent-Widgets>=1.11
 opencv-python>=4.7
 numpy>=1.24
 torch
